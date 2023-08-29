@@ -10,11 +10,11 @@ body{
 }
 .container{
     border: 5px solid black;
-    height: 50rem;
+    height: 60rem;
     display: flex;
     width: 43rem;
     background-color: azure;
-    margin-left: 7rem;
+    margin-left: 18rem;
     padding: 1rem;
     justify-content: space-between;
     flex-wrap: wrap;
