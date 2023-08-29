@@ -1,0 +1,49 @@
+img{
+    height: 100px;
+    width: auto;
+}
+
+body{
+    
+    background-color: blanchedalmond;
+
+}
+.container{
+    border: 5px solid black;
+    height: 50rem;
+    display: flex;
+    width: 43rem;
+    background-color: azure;
+    margin-left: 7rem;
+    padding: 1rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+
+
+}
+
+.mega{
+
+    display: flex;
+    justify-content: flex-end;
+    gap: 2rem;
+    margin-top: 2rem;
+    margin-right: 4rem;
+
+    
+
+    
+}
+
+.vega{
+ display: flex;
+ margin-left: 3rem;
+ margin-top: -0.5rem;
+
+
+
+}
+h1{
+    margin-bottom: 15rem;
+}
