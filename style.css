@@ -6,6 +6,7 @@ img{
 body{
     
     background-color: blanchedalmond;
+    width: 50%;
 
 }
 .container{
@@ -14,7 +15,8 @@ body{
     display: flex;
     width: 43rem;
     background-color: azure;
-    margin-left: 18rem;
+    margin-left: 30rem;
+   
     padding: 1rem;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -44,6 +46,4 @@ body{
 
 
 }
-h1{
-    margin-bottom: 15rem;
-}
+
